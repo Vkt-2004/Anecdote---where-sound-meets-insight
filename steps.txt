@@ -1,0 +1,8 @@
+step 1: open cmd as run as administrator
+step 2: cd C:\Users\VIKHYATI\Desktop\B.tech\WEBSITE  CSD50\WEBSITE 2
+step 3: venv1\Scripts\activate
+step 4: python cameraweb.py
+step 5: in browser: http://127.0.0.1:5000/start_feed
+step 6: http://127.0.0.1:5000/video_feed
+step 7: http://127.0.0.1:5000/stop_feed
+step 8: http://127.0.0.1:5000/generate_pdf
